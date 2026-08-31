@@ -107,3 +107,12 @@ C语言极为简单，我甚至没有用速通技巧，并且我只用了不足�
 大心脏胜过一切！
 
 大心脏胜过一切！
+
+## 2026.08.31
+
+我将对以下项目进行归档，因为这些项目的历史使命已经结束了：
+- Desktop-pet
+- see-color
+- Mingger
+- research-skills
+- cuda-learning-note
